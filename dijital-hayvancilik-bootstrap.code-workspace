@@ -1,0 +1,16 @@
+{
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "path": "../../eduleb/Documentation"
+        },
+        {
+            "path": "../../eduleb/eduleb"
+        }
+    ],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "Documentation"
+    }
+}
